@@ -11,7 +11,7 @@
 
 ## Question
 
-<img src="https://github.com/EmplxDevelopment/InterviewQuestionPHP/blob/main/screen.png" />
+<img src="https://github.com/EmplxDevelopment/InterviewQuestion-PHP-Basic/blob/main/screen.png" />
 
 
 a. Draw an interface in ***html.php***
