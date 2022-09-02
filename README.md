@@ -10,7 +10,19 @@
 - Add ```MYwavePSSD``` as collaborators
 
 
-## Question
+- Expected files:
+  >
+  > **Question A**
+  > - html.php
+  > - info.php
+  > - verify_ajax.js
+  
+  >
+  > **Question B**
+  > - query.txt
+
+
+## Question A
 
 <img src="https://github.com/EmplxDevelopment/InterviewQuestion-PHP-Basic/blob/main/screen.png" />
 
@@ -29,3 +41,47 @@ b. When user key in username and click “Submit”
 1. Apply clean code principle
 2. Apply comment
 3. Beutify the interface
+
+## Question B
+
+- create **query.txt** to provide answer for 4 SQL below.
+
+**Table 1: employee_profile_table**
+
+
+|employee_id |employee_no |employee_name|ic_no|
+|---|---|---|---|
+|1 |1000 |Ali |1234|
+|2 |1001 |Ahmad |2345|
+|3 |1002 |Koay |3456|
+|4 |1003 |Lau |4567|
+
+
+**Table 2: job_profile_table**
+
+|job_id |job_name|
+|---|---|
+|1 |Finance|
+|2 |Developer|
+|3 |Admin|
+|4|Senior Developer|
+
+**Table 3: employee_job_table**
+
+|employee_id |job_id |effective_date|
+|---|---|---|
+|1| 2| 2019-01-01|
+|1| 4| 2020-01-01|
+|2| 2| 2018-01-01|
+|3| 3| 2017-05-14|
+|4| 1| 2019-06-09|
+
+
+
+a. With referring to the tables above, please provide a single SQL statement to update the employee with employee_no 1002 job to 4, with effective 2020-01-01.
+
+b. With referring to the tables above, please provide a single SQL statement to list out the employee name, employee no, effective date, job title.
+
+c. With referring to the tables above, please provide a single SQL statement to list out the employee name, employee no, **latest job title**
+
+d. With referring to the tables above, please provide a single SQL statement to delete all employee with employee_no 1000 job title, with effective date of 2020-01-01
