@@ -76,12 +76,12 @@ b. When user key in username and click “Submit”
 |3| 3| 2017-05-14|
 |4| 1| 2019-06-09|
 
+### With referring to the tables above, please provide a single SQL statement to :
 
+a. update the employee with employee_no 1002 job to 4, with effective 2020-01-01.
 
-a. With referring to the tables above, please provide a single SQL statement to update the employee with employee_no 1002 job to 4, with effective 2020-01-01.
+b. list out the employee name, employee no, effective date, job title.
 
-b. With referring to the tables above, please provide a single SQL statement to list out the employee name, employee no, effective date, job title.
+c. list out the employee name, employee no, **latest job title**
 
-c. With referring to the tables above, please provide a single SQL statement to list out the employee name, employee no, **latest job title**
-
-d. With referring to the tables above, please provide a single SQL statement to delete all employee with employee_no 1000 job title, with effective date of 2020-01-01
+d. delete all employee with employee_no 1000 job title, with effective date of 2020-01-01
