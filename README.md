@@ -25,7 +25,7 @@
 
 ## Question A
 
-<img src="https://github.com/EmplxDevelopment/InterviewQuestion-PHP-Basic/blob/main/screen.png" />
+<img src="https://github.com/MYwavePSSD/InterviewQuestion-PHP-Basic/blob/main/screen.png" />
 
 
 a. Draw an interface in ***html.php***
