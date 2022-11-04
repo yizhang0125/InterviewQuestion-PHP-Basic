@@ -7,6 +7,7 @@
 - Clone the repository from your repository
 - Checkout main branch
 - Commit your changes with the code for below question
+- Upload screenshot for the interface and error message
 - Add ```MYwavePSSD``` as collaborators
 
 
